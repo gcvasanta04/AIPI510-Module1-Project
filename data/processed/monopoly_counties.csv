@@ -1,0 +1,36 @@
+county_fips,county_name,state,county_pop,county_median_income,dist_to_nearest_public_mi,UNITID,name,control,undergrad_enrollment,admit_rate,median_debt,completion_rate_4yr,completion_rate_2yr,median_earnings_10yr
+1025,Clarke County,AL,23058,47549.0,52.61612504783767,488916,Alabama School of Nail Technology & Cosmetology,3,97.0,,16500.0,,0.6207,
+1129,Washington County,AL,15434,51184.0,46.276197786685465,488916,Alabama School of Nail Technology & Cosmetology,3,97.0,,16500.0,,0.6207,
+5017,Chicot County,AR,10234,36593.0,36.65401199980759,498784,Upper Kutz Barber & Style College,3,17.0,,,,,
+13099,Early County,GA,10753,48355.0,33.00774753552251,483975,Alabama College of Osteopathic Medicine,2,,,,,,
+13099,Early County,GA,10753,48355.0,33.00774753552251,455460,Fortis College-Dothan,3,177.0,,9396.0,,0.6094,32754.0
+16031,Cassia County,ID,24859,63525.0,47.86400933639491,445780,Cosmetology School of Arts & Sciences,3,40.0,,6790.0,,0.75,19120.0
+16067,Minidoka County,ID,21626,63594.0,46.47474762536041,445780,Cosmetology School of Arts & Sciences,3,40.0,,6790.0,,0.75,19120.0
+20167,Russell County,KS,6702,49929.0,30.8853046506436,155159,Hays Academy of Hair Design,3,83.0,,9833.0,,0.7736,23712.0
+21171,Monroe County,KY,11331,47252.0,31.094760397435586,156754,PJ's College of Cosmetology-Glasgow,3,44.0,,9500.0,,0.6667,18537.0
+22045,Iberia Parish,LA,69958,55190.0,43.210792782819965,490416,J's Barber College,3,26.0,,13250.0,,0.5652,
+26165,Wexford County,MI,33766,58652.0,30.00072516654264,421665,Cadillac Institute of Cosmetology,3,43.0,,,,0.5,16514.0
+27101,Murray County,MN,8170,71500.0,54.71295187516871,457679,Avalon School of Cosmetology,3,15.0,,,,0.8333,28336.0
+27105,Nobles County,MN,22194,62973.0,34.5688653279235,457679,Avalon School of Cosmetology,3,15.0,,,,0.8333,28336.0
+28013,Calhoun County,MS,13193,44505.0,31.77070672550951,374343,KC's School of Hair Design,3,58.0,,6500.0,,0.95,
+28017,Chickasaw County,MS,17024,40224.0,38.74240497479342,499918,C N K Barber College,3,31.0,,,,0.5714,
+28017,Chickasaw County,MS,17024,40224.0,38.74240497479342,176433,Vaughn Beauty College,3,63.0,,,,0.4444,
+28017,Chickasaw County,MS,17024,40224.0,38.74240497479342,374343,KC's School of Hair Design,3,58.0,,6500.0,,0.95,
+28043,Grenada County,MS,21474,45745.0,35.66783793475478,175722,Academy of Hair Design-Grenada,3,21.0,,6500.0,,0.8889,22284.0
+28097,Montgomery County,MS,9803,36845.0,39.99316030877253,175722,Academy of Hair Design-Grenada,3,21.0,,6500.0,,0.8889,22284.0
+28115,Pontotoc County,MS,31202,54414.0,30.111474852327703,499918,C N K Barber College,3,31.0,,,,0.5714,
+28115,Pontotoc County,MS,31202,54414.0,30.111474852327703,374343,KC's School of Hair Design,3,58.0,,6500.0,,0.95,
+28135,Tallahatchie County,MS,12621,35428.0,30.711504218544736,175722,Academy of Hair Design-Grenada,3,21.0,,6500.0,,0.8889,22284.0
+29009,Barry County,MO,34701,55592.0,30.176834488431524,486619,Academy of Professional Cosmetology,3,115.0,,4750.0,,0.8947,
+29215,Texas County,MO,24828,42870.0,36.96152356673644,441487,Texas County Technical College,3,96.0,1.0,10026.0,,0.25,40843.0
+29229,Wright County,MO,18475,43573.0,40.29413947983568,441487,Texas County Technical College,3,96.0,1.0,10026.0,,0.25,40843.0
+40059,Harper County,OK,3272,59934.0,30.203543084147395,208044,Formations Institute of Cosmetology & Barbering,3,29.0,,9626.0,,0.4737,17260.0
+48177,Gonzales County,TX,19736,64255.0,40.07100483711721,228088,Seguin Beauty School-Seguin,3,38.0,,8427.0,,0.68,21891.0
+48241,Jasper County,TX,33032,48818.0,48.81420059329812,449807,Southeast Texas Career Institute,3,75.0,,4584.0,,0.625,24835.0
+48241,Jasper County,TX,33032,48818.0,48.81420059329812,447449,Academy Of Hair Design,3,52.0,,9500.0,,0.9355,20892.0
+48351,Newton County,TX,12333,38871.0,47.98891174207042,447449,Academy Of Hair Design,3,52.0,,9500.0,,0.9355,20892.0
+48427,Starr County,TX,65716,35979.0,37.09505723350722,475662,UCAS University of Cosmetology Arts & Sciences-La Joya,3,51.0,,6083.0,,1.0,19880.0
+48457,Tyler County,TX,19962,50898.0,41.544046256194825,447449,Academy Of Hair Design,3,52.0,,9500.0,,0.9355,20892.0
+48489,Willacy County,TX,20308,42839.0,37.81270239174706,407683,UCAS University of Cosmetology Arts & Sciences-Harlingen,3,87.0,,6083.0,,0.6444,19880.0
+48489,Willacy County,TX,20308,42839.0,37.81270239174706,459985,Southern Careers Institute-Harlingen,3,543.0,,7389.0,,0.6029,27035.0
+55081,Monroe County,WI,46208,66451.0,32.452383816136646,458168,The Salon Professional Academy-Onalaska,3,67.0,,7917.0,,0.9333,30744.0
